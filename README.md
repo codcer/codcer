@@ -6,7 +6,7 @@
 <a href="https://github.com/codcer/" style="margin-left: 20px;"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
 
 ### 擅长领域 👯
-   * 擅长typescript/nodejs/vue/react/css3/html5/多端taro...
+   * 擅长typescript/nodejs/vue/react/css3/html5/多端taro/micro front...
    * 各种多端性能优化，体验优化...
    * 熟练webpack、rollup打包环境搭建， 项目部署等等。
 
@@ -37,7 +37,7 @@
 
 1. @ufyb/redux-ioc react+redux 二次封装模块化库
 2. @ufyb/cli 通用webpack5联邦脚手架
-3. react、vue最新仓库模版
+3. react、vue最新仓库模版&微前端
    - react_template 最新react子座项目模版仓库;
    - react_base_template 最新react基座项目模版仓库;
    - vue_template 最新vue子座项目模版仓库;
